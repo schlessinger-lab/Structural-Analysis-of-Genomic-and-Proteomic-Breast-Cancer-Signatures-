@@ -1,0 +1,91 @@
+Features Trained on,Tissue Type,Accuracy,AUROC,F score,Precision,Recall
+Structural Features and Gene Names,AdiposeTissue,0.982±0.005,0.982±0.005,0.982±0.005,0.974±0.007,0.99±0.007
+Gene Names,AdiposeTissue,0.985±0.004,0.985±0.004,0.986±0.003,0.977±0.007,0.994±0.003
+Structural Features  ,AdiposeTissue,0.982±0.005,0.982±0.005,0.982±0.005,0.975±0.007,0.989±0.007
+Structural Features and Gene Names,AdrenalGland,0.999±0.003,0.999±0.003,0.999±0.003,1.0±0.0,0.998±0.006
+Gene Names,AdrenalGland,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features  ,AdrenalGland,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features and Gene Names,Bladder,0.89±0.057,0.89±0.057,0.892±0.058,0.877±0.086,0.92±0.103
+Gene Names,Bladder,0.89±0.099,0.89±0.099,0.894±0.094,0.877±0.117,0.92±0.103
+Structural Features  ,Bladder,0.88±0.079,0.88±0.079,0.887±0.063,0.876±0.124,0.92±0.103
+Structural Features and Gene Names,Blood,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Gene Names,Blood,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features  ,Blood,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features and Gene Names,BloodVessel,0.985±0.005,0.985±0.005,0.985±0.005,0.993±0.006,0.976±0.009
+Gene Names,BloodVessel,0.987±0.005,0.987±0.005,0.987±0.005,0.995±0.005,0.979±0.007
+Structural Features  ,BloodVessel,0.981±0.005,0.981±0.005,0.981±0.005,0.99±0.006,0.973±0.009
+Structural Features and Gene Names,Brain,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,0.999±0.001
+Gene Names,Brain,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,0.999±0.001
+Structural Features  ,Brain,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,0.999±0.001
+Structural Features and Gene Names,Breast,0.953±0.014,0.953±0.014,0.955±0.014,0.93±0.02,0.98±0.01
+Gene Names,Breast,0.951±0.012,0.951±0.012,0.953±0.011,0.926±0.018,0.98±0.009
+Structural Features  ,Breast,0.949±0.012,0.949±0.012,0.951±0.011,0.928±0.018,0.975±0.01
+Structural Features and Gene Names,CervixUteri,0.838±0.084,0.838±0.084,0.848±0.076,0.823±0.131,0.9±0.129
+Gene Names,CervixUteri,0.85±0.099,0.85±0.099,0.857±0.095,0.832±0.123,0.9±0.129
+Structural Features  ,CervixUteri,0.838±0.084,0.838±0.084,0.851±0.077,0.803±0.116,0.925±0.121
+Structural Features and Gene Names,Colon,0.983±0.005,0.983±0.005,0.983±0.005,0.983±0.01,0.983±0.007
+Gene Names,Colon,0.979±0.008,0.979±0.008,0.979±0.008,0.973±0.015,0.985±0.011
+Structural Features  ,Colon,0.98±0.008,0.98±0.008,0.98±0.008,0.98±0.011,0.98±0.01
+Structural Features and Gene Names,Esophagus,0.98±0.004,0.98±0.004,0.98±0.004,0.979±0.007,0.981±0.008
+Gene Names,Esophagus,0.98±0.004,0.98±0.004,0.98±0.004,0.98±0.005,0.981±0.008
+Structural Features  ,Esophagus,0.977±0.005,0.977±0.005,0.977±0.005,0.975±0.009,0.978±0.008
+Structural Features and Gene Names,FallopianTube,0.825±0.206,0.825±0.206,0.857±0.175,0.8±0.219,0.95±0.158
+Gene Names,FallopianTube,0.85±0.175,0.85±0.175,0.87±0.164,0.817±0.2,0.95±0.158
+Structural Features  ,FallopianTube,0.75±0.118,0.75±0.118,0.793±0.091,0.717±0.158,0.95±0.158
+Structural Features and Gene Names,Heart,0.999±0.001,0.999±0.001,0.999±0.001,1.0±0.0,0.998±0.003
+Gene Names,Heart,0.999±0.002,0.999±0.002,0.999±0.002,1.0±0.0,0.997±0.003
+Structural Features  ,Heart,0.999±0.001,0.999±0.001,0.999±0.001,1.0±0.0,0.998±0.003
+Structural Features and Gene Names,Kidney,0.968±0.049,0.968±0.049,0.969±0.045,0.964±0.071,0.979±0.048
+Gene Names,Kidney,0.989±0.024,0.989±0.024,0.989±0.026,1.0±0.0,0.979±0.048
+Structural Features  ,Kidney,0.954±0.051,0.954±0.051,0.956±0.047,0.945±0.08,0.971±0.05
+Structural Features and Gene Names,Liver,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Gene Names,Liver,0.986±0.03,0.986±0.03,0.985±0.032,1.0±0.0,0.971±0.06
+Structural Features  ,Liver,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features and Gene Names,Lung,0.999±0.002,0.999±0.002,0.999±0.002,1.0±0.0,0.997±0.004
+Gene Names,Lung,0.998±0.002,0.998±0.002,0.998±0.002,0.999±0.003,0.997±0.004
+Structural Features  ,Lung,0.998±0.002,0.998±0.002,0.998±0.002,1.0±0.0,0.996±0.005
+Structural Features and Gene Names,Muscle,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Gene Names,Muscle,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features  ,Muscle,1.0±0.001,1.0±0.001,1.0±0.001,1.0±0.0,0.999±0.002
+Structural Features and Gene Names,Nerve,0.996±0.003,0.996±0.003,0.996±0.003,1.0±0.0,0.992±0.005
+Gene Names,Nerve,0.999±0.002,0.999±0.002,0.999±0.002,1.0±0.0,0.998±0.004
+Structural Features  ,Nerve,0.992±0.004,0.992±0.004,0.991±0.004,0.999±0.003,0.984±0.008
+Structural Features and Gene Names,Ovary,0.972±0.023,0.972±0.023,0.971±0.025,0.992±0.013,0.953±0.049
+Gene Names,Ovary,0.969±0.022,0.969±0.022,0.968±0.024,0.992±0.013,0.947±0.048
+Structural Features  ,Ovary,0.981±0.021,0.981±0.021,0.98±0.022,0.992±0.013,0.969±0.044
+Structural Features and Gene Names,Pancreas,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Gene Names,Pancreas,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features  ,Pancreas,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0,1.0±0.0
+Structural Features and Gene Names,Pituitary,0.996±0.005,0.996±0.005,0.996±0.005,1.0±0.0,0.991±0.009
+Gene Names,Pituitary,0.997±0.004,0.997±0.004,0.997±0.004,1.0±0.0,0.995±0.008
+Structural Features  ,Pituitary,0.996±0.006,0.996±0.006,0.996±0.006,0.998±0.006,0.993±0.009
+Structural Features and Gene Names,Prostate,0.972±0.023,0.972±0.023,0.972±0.024,0.978±0.029,0.967±0.035
+Gene Names,Prostate,0.971±0.017,0.971±0.017,0.971±0.018,0.976±0.022,0.967±0.031
+Structural Features  ,Prostate,0.958±0.027,0.958±0.027,0.958±0.028,0.965±0.025,0.951±0.041
+Structural Features and Gene Names,SalivaryGland,0.989±0.012,0.989±0.012,0.99±0.012,0.985±0.02,0.994±0.013
+Gene Names,SalivaryGland,0.989±0.01,0.989±0.01,0.99±0.01,0.983±0.02,0.997±0.01
+Structural Features  ,SalivaryGland,0.988±0.014,0.988±0.014,0.988±0.014,0.985±0.021,0.991±0.015
+Structural Features and Gene Names,Skin,0.998±0.001,0.998±0.001,0.998±0.001,1.0±0.001,0.996±0.002
+Gene Names,Skin,0.998±0.002,0.998±0.002,0.998±0.002,1.0±0.001,0.995±0.003
+Structural Features  ,Skin,0.997±0.001,0.997±0.001,0.997±0.001,1.0±0.001,0.995±0.003
+Structural Features and Gene Names,SmallIntestine,0.966±0.019,0.966±0.019,0.966±0.018,0.962±0.031,0.971±0.019
+Gene Names,SmallIntestine,0.961±0.021,0.961±0.021,0.961±0.02,0.957±0.04,0.966±0.018
+Structural Features  ,SmallIntestine,0.968±0.011,0.968±0.011,0.969±0.011,0.967±0.026,0.971±0.023
+Structural Features and Gene Names,Spleen,0.993±0.007,0.993±0.007,0.993±0.007,0.988±0.014,0.998±0.006
+Gene Names,Spleen,0.995±0.005,0.995±0.005,0.995±0.005,0.992±0.01,0.998±0.006
+Structural Features  ,Spleen,0.991±0.011,0.991±0.011,0.991±0.011,0.984±0.022,0.998±0.006
+Structural Features and Gene Names,Stomach,0.975±0.01,0.975±0.01,0.975±0.011,0.982±0.015,0.968±0.017
+Gene Names,Stomach,0.972±0.014,0.972±0.014,0.972±0.014,0.97±0.023,0.974±0.019
+Structural Features  ,Stomach,0.969±0.011,0.969±0.011,0.969±0.011,0.977±0.022,0.961±0.019
+Structural Features and Gene Names,Testis,0.999±0.003,0.999±0.003,0.999±0.003,1.0±0.0,0.997±0.006
+Gene Names,Testis,0.997±0.004,0.997±0.004,0.997±0.004,1.0±0.0,0.995±0.007
+Structural Features  ,Testis,0.997±0.006,0.997±0.006,0.997±0.006,1.0±0.0,0.993±0.012
+Structural Features and Gene Names,Thyroid,0.997±0.005,0.997±0.005,0.997±0.005,1.0±0.0,0.993±0.01
+Gene Names,Thyroid,0.996±0.004,0.996±0.004,0.996±0.004,1.0±0.0,0.992±0.008
+Structural Features  ,Thyroid,0.998±0.003,0.998±0.003,0.998±0.003,1.0±0.0,0.996±0.005
+Structural Features and Gene Names,Uterus,0.981±0.019,0.981±0.019,0.981±0.019,0.98±0.023,0.983±0.024
+Gene Names,Uterus,0.978±0.02,0.978±0.02,0.978±0.019,0.974±0.033,0.983±0.018
+Structural Features  ,Uterus,0.971±0.028,0.971±0.028,0.971±0.028,0.96±0.031,0.983±0.034
+Structural Features and Gene Names,Vagina,0.941±0.024,0.941±0.024,0.941±0.024,0.931±0.033,0.953±0.034
+Gene Names,Vagina,0.939±0.029,0.939±0.029,0.939±0.029,0.936±0.036,0.944±0.035
+Structural Features  ,Vagina,0.933±0.031,0.933±0.031,0.933±0.033,0.931±0.041,0.938±0.055
